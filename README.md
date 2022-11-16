@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/FE Stack-000000?style=for-the-badge&logo=FE Stack&logoColor=black" alt="FE Stack">
   <img src="https://img.shields.io/badge/next.js-0000000?style=for-the-badge&logo=next.js&logoColor=black" alt="Next.js">
-  <img src="https://img.shields.io/badge/ts-node-3178C6?style=for-the-badge&logo=ts-node&logoColor=black" alt="TypeScript">
-  <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=black" alt="Styled components">
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=ts-node&logoColor=black" alt="TypeScript">
+  <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=black" alt="Styled components">
   <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=black" alt="React Query">
 </p>
 <p align="center">
