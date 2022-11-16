@@ -23,12 +23,15 @@
   <img src="" alt="스타터밸리 메인 화면">
 </p>
 
+<p align="center"><strong>
+GPS 출석 체크&ensp;&ensp;|&ensp;&ensp;출석 현황&ensp;&ensp;|&ensp;&ensp;런치 버스&ensp;&ensp;|&ensp;&ensp;맛집 추천&ensp;&ensp;|&ensp;&ensp;점심 메뉴 랜덤 추천&ensp;&ensp;|&ensp;&ensp;커뮤니티</strong</p>
+
 ## 프로젝트 소개
 
 > 스타터스 수강생들을 위해 자동 출석체크 및 편의 서비스를 제공
 
-- 출석체크: GPS를 이용하여 출석체크 간소화 & 출석 현황 조회
-- 런치버스: 점심 파티 모집
+- 출석 체크: GPS를 이용하여 출석체크 간소화 및 출석 현황 조회
+- 런치 버스: 점심 파티 모집
 - 스슐랭: 식당 조회 및 일일 메뉴 추천
 - 커뮤니티 : 스타터스 소속 수강생 정보 조회 및 게시판
 
