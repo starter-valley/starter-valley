@@ -3,20 +3,19 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FE Stack-000000?style=flat&logo=FE Stack&logoColor=black" alt="FE Stack">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/next.js-0000000?style=flat&logo=next.js&logoColor=black" alt="Next.js">
-  <img src="https://img.shields.io/badge/ts-node-3178C6?style=flat&logo=ts-node&logoColor=black" alt="TypeScript">
-  <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=black" alt="Styled components">
-  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=black" alt="React Query">
+  <img src="https://img.shields.io/badge/FE Stack-000000?style=for-the-badge&logo=FE Stack&logoColor=black" alt="FE Stack">
+  <img src="https://img.shields.io/badge/next.js-0000000?style=for-the-badge&logo=next.js&logoColor=black" alt="Next.js">
+  <img src="https://img.shields.io/badge/ts-node-3178C6?style=for-the-badge&logo=ts-node&logoColor=black" alt="TypeScript">
+  <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=black" alt="Styled components">
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=black" alt="React Query">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/BE Stack-000000?style=flat&logo=FE Stack&logoColor=black" alt="BE Stack">
-  <img src="https://img.shields.io/badge/Spring Boot-236DB33F?style=flat&logo=Spring Boot&logoColor=black" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=black" alt="Spring Security">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=fflat&logo=Docker&logoColor=black" alt="Docker">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=black" alt="MariaDB">
+  <img src="https://img.shields.io/badge/BE Stack-000000?style=for-the-badge&logo=FE Stack&logoColor=black" alt="BE Stack">
+  <img src="https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=Java&logoColor=black" alt="Java">
+  <img src="https://img.shields.io/badge/Spring Boot-236DB33F?style=for-the-badge&logo=Spring Boot&logoColor=black" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=black" alt="Spring Security">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=black" alt="Docker">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=black" alt="MariaDB">
 </p>
 
 <p align="center">
@@ -24,7 +23,7 @@
 </p>
 
 <p align="center"><strong>
-GPS 출석 체크&ensp;&ensp;|&ensp;&ensp;출석 현황&ensp;&ensp;|&ensp;&ensp;런치 버스&ensp;&ensp;|&ensp;&ensp;맛집 추천&ensp;&ensp;|&ensp;&ensp;점심 메뉴 랜덤 추천&ensp;&ensp;|&ensp;&ensp;커뮤니티</strong</p>
+GPS 출석 체크&ensp;&ensp;|&ensp;&ensp;출석 현황&ensp;&ensp;|&ensp;&ensp;런치 버스&ensp;&ensp;|&ensp;&ensp;맛집 추천&ensp;&ensp;|&ensp;&ensp;점심 메뉴 랜덤 추천&ensp;&ensp;|&ensp;&ensp;커뮤니티</strong></p>
 
 ## 프로젝트 소개
 
