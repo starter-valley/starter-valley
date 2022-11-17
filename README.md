@@ -4,8 +4,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/FE Stack-000000?style=for-the-badge&logo=FE Stack&logoColor=black" alt="FE Stack">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/react-3178C6?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/next.js-0000000?style=for-the-badge&logo=next.js&logoColor=black" alt="Next.js">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=ts-node&logoColor=black" alt="TypeScript">
   <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=black" alt="Styled components">
@@ -51,6 +49,8 @@ GPS 출석 체크&ensp;&ensp;|&ensp;&ensp;출석 현황&ensp;&ensp;|&ensp;&ensp;
 - 기능 명세서: [https://www.notion.so/flearnerhq/120ded4c72134d009e89779a4926f5bf](https://www.notion.so/120ded4c72134d009e89779a4926f5bf)
 - api명세서: [https://www.notion.so/flearnerhq/API-60e53c7f60714015b301ee90dfdda48d](https://www.notion.so/API-60e53c7f60714015b301ee90dfdda48d)
 - 디자인 정리: [https://www.notion.so/flearnerhq/c9722bf6962b4a6abbf77a76688d99c2](https://www.notion.so/c9722bf6962b4a6abbf77a76688d99c2)
+
+  <!-- FE 스택에서 JS, React 지움, DOCS 링크 4개 삭제, 추후 정리해서 링크로 넣지 않고 텍스트 혹은 적절한 자료로 추가할 예정-->
 
 ## 멤버
 
